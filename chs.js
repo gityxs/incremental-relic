@@ -331,7 +331,7 @@ var cnItems = {
     "Centaur's Earth Spear": "半人马的大地之矛",
     "Confirm Prestige": "确认声望",
     "Experience Ring": "经验环",
-    "Lost on reincarnate": "转世迷失",
+    "Lost on reincarnate": "转世丢失",
     "New Relic": "新遗物",
     "Old Relic": "旧遗迹",
     "per level)": "每级）",
